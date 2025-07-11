@@ -1,7 +1,6 @@
 # 📊 Financial Performance Dashboard
 
-**Tool Used:** Tableau Public  
-**Level:** Intermediate  
+**Tool Used:** Tableau Public 
 **Domain:** Business Analytics / Financial Analysis  
 
 ---
@@ -15,7 +14,7 @@ This Tableau project analyzes financial performance across multiple countries an
 ## 🧾 Dataset Summary
 
 - **File:** `financial_data.csv`
-- **Time Range:** 2011 to 2014
+- **Time Range:** 2013 to 2014
 - **Dimensions:** Segment, Country, Product, Discount Band
 - **Measures:** Units Sold, Manufacturing Price, Sale Price, Gross Sales, Discounts, Sales, COGS, Profit
 - **Date Fields:** Date, Month Number, Month Name, Year
@@ -67,11 +66,5 @@ All visualizations are combined into a single interactive dashboard.
 |---------------------------------------|--------------------------------------------|
 | `financial_data.csv`                  | Original dataset                           |
 | `financial_dashboard.twbx`            | Tableau project file                       |
-| `Financial Performance Dashboard.pdf` | Assignment PDF                             |
 | `README.md`                           | This project report                        |
-
----
-
-## 🔗 Credits
-
-Project executed based on a guided step-by-step instruction and original assignment brief.
+    
